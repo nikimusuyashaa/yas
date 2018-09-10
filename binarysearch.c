@@ -1,5 +1,6 @@
 #include <stdio.h>
- 
+ànything
+
 int main()
 {
    int c, first, last, middle, n, search, array[100];
